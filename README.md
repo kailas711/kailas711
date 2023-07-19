@@ -10,7 +10,6 @@ Gmail - kailaspsudheer@gmail.com
 ## 📊 GitHub Stats:
 
 <a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kailas711&theme=react&line_height=40&hide=css"/> </a>
-
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Kailas711&theme=dark&hide_border=true)<br/>
 
 

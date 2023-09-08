@@ -2,6 +2,8 @@
 
 🔭 I’m currently working on Machine Learning and Data Science  
 
+😎 This many people saw my profile  👉  ![](https://komarev.com/ghpvc/?username=kailas711&color=blueviolet)
+
 ## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kailas-p-sudheer-6bb244201/)
 

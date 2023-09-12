@@ -1,10 +1,10 @@
 ## Heloo there 👋 Wellcome to my GitHub profile 
 
-🔭 I’m currently working on Machine Learning and Data Science  
+🔭 I’m currently working on Machine Learning 📈 and Data Science 📊 
 
-😎 This many people saw my profile  👉  ![](https://komarev.com/ghpvc/?username=kailas711&color=blueviolet)
+👇 This many people saw my profile 😎
 
-
+![](https://komarev.com/ghpvc/?username=kailas711&style=plastic&color=blueviolet)
 
 ### 🌐 Connect with me:
 

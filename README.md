@@ -1,9 +1,10 @@
 ## Helloo there 👋 Wellcome to my GitHub profile 
 
-🔭 I’m currently working on Machine Learning 📈 and Data Science 📊 
-Learning about computer vision , AWS and NLP 🤓
+I’m an undergrad in AI and currently working on Machine Learning 📈 Data Science 📊 
 
-👇 This many people saw my profile 😎
+along with Computer Vision, NLP and AWS ☁
+
+
 
 ![](https://komarev.com/ghpvc/?username=kailas711&style=plastic&color=blueviolet)
 

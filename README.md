@@ -1,4 +1,4 @@
-## Heloo there 👋 Wellcome to my GitHub profile 
+## Helloo there 👋 Wellcome to my GitHub profile 
 
 🔭 I’m currently working on Machine Learning 📈 and Data Science 📊 
 Learning about computer vision , AWS and NLP 🤓

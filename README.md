@@ -12,7 +12,7 @@ I’m an undergraduate student specializing in Artificial Intelligence, with a f
 
 ### GitHub Stats 📊
 
-[![Kailas's GitHub stats](https://github-readme-stats.vercel.app/api?username=kailas711&show_icons=true&bg_color=00000000)](https://github.com/kailas711)
+![Kailas's GitHub stats](https://github-readme-stats.vercel.app/api?username=kailas711&show_icons=true&theme=transparent)
 
 ### 🌐 Connect with me:
 

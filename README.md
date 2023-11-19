@@ -1,18 +1,22 @@
-## Helloo there 👋 Wellcome to my GitHub profile 
+## Hello there! 👋 Welcome to my GitHub profile 
 
-I’m an undergrad in AI and currently working on Machine Learning 📈 Data Science 📊 along with Computer Vision, NLP and AWS ☁
+I’m an undergraduate student specializing in Artificial Intelligence, with a focus on:
 
+- **Machine Learning 📈**
+- **Data Science 📊**
+- **Computer Vision**
+- **Natural Language Processing (NLP)**
+- **AWS Cloud ☁**
 
-
-![](https://komarev.com/ghpvc/?username=kailas711&style=plastic&color=blueviolet)
+![Profile Views](https://komarev.com/ghpvc/?username=kailas711&style=plastic&color=blueviolet)
 
 ### 🌐 Connect with me:
 
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kailas-p-sudheer-6bb244201/)
-
 - [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@kailas_sudheer)
   
-
+### GitHub Stats 📊
 
 ![Kailas's GitHub stats](https://github-readme-stats.vercel.app/api?username=kailas711&show_icons=true&bg_color=00000000)
 
+Feel free to explore my projects, and don't hesitate to reach out for any inquiries or collaborations. Let's innovate together! 🚀

@@ -1,8 +1,6 @@
 ## Helloo there 👋 Wellcome to my GitHub profile 
 
-I’m an undergrad in AI and currently working on Machine Learning 📈 Data Science 📊 
-
-along with Computer Vision, NLP and AWS ☁
+I’m an undergrad in AI and currently working on Machine Learning 📈 Data Science 📊 along with Computer Vision, NLP and AWS ☁
 
 
 

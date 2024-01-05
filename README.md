@@ -3,7 +3,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=kailas711&style=plastic&color=blueviolet)
 
-I’m an undergraduate student specializing in Artificial Intelligence, I love to work on:
+I’m an undergraduate student of in Artificial Intelligence and I love to work on:
 
 - **Machine Learning & Data Science 📈**
 - **Computer Vision & Natural Language Processing (NLP)**

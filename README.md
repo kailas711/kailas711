@@ -1,5 +1,4 @@
-# Hello there! 👋
-## Welcome to my GitHub profile 
+## Welcome to my GitHub profile 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=kailas711&style=plastic&color=blueviolet)
 

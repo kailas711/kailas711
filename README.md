@@ -1,7 +1,6 @@
 ### Hey, Kailas here...👋 
 
-I am Undergraduate specialized in Artificial Intelligence and Data Science
-I am working with Machine Learning Engineering, Generative AI , DevOps and Software Engineering plus I am active within **Kaggle Community** 
+I am Undergraduate specialized in Artificial Intelligence and Data Science working with Machine Learning Engineering, Generative AI, DevOps and Software Engineering plus I am also active within the **Kaggle Community** 
 
 In my free time i do write blogs in **Medium**. 
 

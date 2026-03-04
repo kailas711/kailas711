@@ -17,3 +17,6 @@ In my free time, I deconstruct complex AI frameworks and share my learning journ
 [![Medium Badge](https://img.shields.io/badge/-Medium-black?style=flat-square&logo=Medium&logoColor=white)](https://medium.com/@kailaspsudheer) 
 [<img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" height="20">](https://www.kaggle.com/kailaspsudheer) 
 ![Profile Views](https://komarev.com/ghpvc/?username=kailas711&style=plastic&color=blueviolet)
+
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)

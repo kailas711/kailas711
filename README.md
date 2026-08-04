@@ -8,12 +8,9 @@ I am an Undergraduate student specializing in **Artificial Intelligence and Data
 [![Medium Badge](https://img.shields.io/badge/-Medium-black?style=flat-square&logo=Medium&logoColor=white)](https://medium.com/@kailaspsudheer) 
 [<img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" height="20">](https://www.kaggle.com/kailaspsudheer) 
 
-#### 🏆 Kaggle & Community
-I train models, upload datasets and noetbooks on  **Kaggle Community**, view my profile Kaggle 🔗 : [@kailaspsudheer](https://www.kaggle.com/kailaspsudheer)
+#### Kaggle & Community
+I train models, upload datasets and notebooks on  **Kaggle Community**, view my profile Kaggle 🔗 : [@kailaspsudheer](https://www.kaggle.com/kailaspsudheer)
 
 In my free time, I deconstruct complex AI frameworks and share my learning journey through my blog.
 
-Read my latest articles on Medium 📘: [@kailaspsudheer](https://medium.com/@kailaspsudheer)
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=highcontrast)](https://git.io/streak-stats)
-
+Read my latest articles on Medium: [@kailaspsudheer](https://medium.com/@kailaspsudheer)
